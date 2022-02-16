@@ -6,7 +6,7 @@
  *
  *  I dont know about that. to use it.
  *
- *  Ported Version of and cathook
+ *  Ported Version of cathook
  *
  *  by cRpt
  */
