@@ -1,16 +1,8 @@
-/*
- *  Created on Oct 19
- *  by BenCat07
- *
- *  Its a CatCrash form at catbot-database
- *
- *  I dont know about that. to use it.
- *
- *  Ported Version of cathook
- *
- *  by cRpt
- */
 
+/*
+ *  Created on 19th of October 21:10
+ *  by BenCat07
+ */
 
 #include "init.hpp"
 #include "Settings.hpp"
